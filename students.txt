@@ -1,0 +1,5 @@
+The total number of students in the class are 50.
+StudentId FirstName LastName Status
+001       Abel      Getu     Registered
+002       Beth      Etsub    Registered
+003       Amen      Solomon  Not Registered
